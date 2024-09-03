@@ -1,0 +1,22 @@
+.Event {
+  width: 125px;
+}
+
+.Event h5, h6 {
+  text-align: center;
+  line-height: 0px;
+}
+
+.green {
+  background: #40975b;
+  opacity: 0.9;
+}
+
+.blue {
+  background: rgb(171, 215, 235);
+  opacity: 0.3;
+}
+
+.pink {
+  background: pink;
+}
